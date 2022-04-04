@@ -1,5 +1,21 @@
 # Oclock App
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live link [Oclock app](https://heroic-sprite-28c9b3.netlify.app/reviews).
+
+OClock is a website where you can find a wide range of smartwatches.You can buy watches on basis of users reviews,ratings that they given here.
+
+## Tech
+- This website is created by ReactJs
+- For styling used react bootstrap and core css also. 
+- Local file data's are used which are created in watch.json & data.json files
+
+## Features
+
+- Home page give you an overview of this website
+- There is a review page where you can see all the reviews of smartwatches
+- on dashboard page some charts are given
+- and some blogs are in the blog page
+
+
 
 ## Available Scripts
 
