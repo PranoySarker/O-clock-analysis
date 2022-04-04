@@ -1,0 +1,5 @@
+.customer-review {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding-left: 30px;
+}

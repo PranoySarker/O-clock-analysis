@@ -6,7 +6,6 @@ import './Reviews.css';
 
 const Reviews = () => {
     const [watches, setWatches] = useWatch();
-    console.log(watches);
     return (
 
         <div className='review-container'>
