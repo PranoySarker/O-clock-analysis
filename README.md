@@ -1,5 +1,5 @@
 # Oclock App
-Live link [Oclock app](https://heroic-sprite-28c9b3.netlify.app/reviews).
+Live link [Oclock app](https://heroic-sprite-28c9b3.netlify.app/).
 
 OClock is a website where you can find a wide range of smartwatches.You can buy watches on basis of users reviews,ratings that they given here.
 
